@@ -46,7 +46,7 @@
 
 ## :dart: About
 
-Phising_dana is a project developed to steal user data, this project is made with react native and node js, this project is made for educational purposes only, I am not responsible for the misuse of this project
+Phising_dana is a project developed to steal user data, this project is made with PHP Native, this project is made for educational purposes only, I am not responsible for the misuse of this project
 
 ## :sparkles: Features
 
